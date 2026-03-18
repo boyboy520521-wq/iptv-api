@@ -1,11 +1,273 @@
 # 这是订阅源列表，每行一个订阅地址
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
-# This is a list of subscription sources, with one subscription address per line
-# Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+
+央视,#genre#
+CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV-4HD,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-6HD,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV-7HD,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV-8HD,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV-9HD,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV-10HD,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV-11HD,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV-12HD,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV-13HD,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV-14HD,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV-15HD,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV-16HD,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-17HD,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-4K超高清,http://107.150.60.122/live/cctv4k.m3u8
+CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
+
+CCTV世界地理,http://154.17.19.44:7088/udp/239.11.0.63:1025
+CCTV兵器科技,http://154.17.19.44:7088/udp/239.11.0.57:1025
+CCTV卫生健康,http://154.17.19.44:7088/udp/239.11.0.185:1025
+CCTV央视台球,http://154.17.19.44:7088/udp/239.11.0.60:1025
+CCTV央视文化精品,http://154.17.19.44:7088/udp/239.11.0.66:1025
+CCTV女性时尚,http://154.17.19.44:7088/udp/239.11.0.62:1025
+CCTV怀旧剧场,http://154.17.19.44:7088/udp/239.11.0.64:1025
+CCTV电视指南,http://154.17.19.44:7088/udp/239.11.0.58:1025
+CCTV第一剧场,http://154.17.19.44:7088/udp/239.11.0.67:1025
+CCTV风云剧场,http://154.17.19.44:7088/udp/239.11.0.65:1025
+CCTV风云足球,http://154.17.19.44:7088/udp/239.11.0.59:1025
+CCTV风云音乐,http://154.17.19.44:7088/udp/239.11.0.68:1025
+CCTV高尔夫网球,http://154.17.19.44:7088/udp/239.11.0.61:1025
+
+卫视,#genre#
+广东卫视,http://112.99.193.34:9901/tsfile/live/1043_1.m3u8?
+深圳卫视,http://218.15.183.23:9901/tsfile/live/23060_1.m3u8
+浙江卫视,http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
+东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://ak6668768.zicp.io:8830/live1032.m3u8
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
+天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8
+重庆卫视,http://67.220.71.199:2347/livehttpplay?channel_id=20040
+黑龙江卫视,http://218.15.183.23:9901/tsfile/live/23055_1.m3u8
+吉林卫视,http://a21709.tv.netsite.cc/proxy/649197264/649197264.m3u8
+辽宁卫视,http://153.0.169.80:888/hls/29/index.m3u8
+甘肃卫视,https://stream1.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8
+河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
+山东卫视,http://221.0.78.26:881/hls/50217/index.m3u8
+安徽卫视,http://gmxw.7766.org:808/hls/40/index.m3u8
+河南卫视,http://111.61.236.247:9081/hls/33/index.m3u8
+湖北卫视,http://111.61.236.247:9081/hls/39/index.m3u8
+湖南卫视,http://120.40.39.246:352/newlive/live/hls/21/live.m3u8
+江西卫视,http://111.61.236.247:9081/hls/36/index.m3u8
+江苏卫视,http://111.61.236.247:9081/hls/26/index.m3u8
+广西卫视,http://cssbyd.imwork.net:8082/hls/33/index.m3u8
+云南卫视,http://111.61.236.247:9081/hls/32/index.m3u8
+贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
+四川卫视,http://182.150.23.74:808/hls/38/index.m3u8
+海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+三沙卫视,http://154.17.19.44:7088/udp/239.11.0.177:1025
+山西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
+陕西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
+内蒙古卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
+兵团卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140	
+西藏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
+宁夏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
+新疆卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
+青海卫视,http://907698324.xyz:7088/udp/239.253.43.125:5146
+
+广东,#genre#
+广东珠江,http://907698324.xyz:7088/udp/239.77.0.1:5146
+广东新闻,http://907698324.xyz:7088/udp/239.77.0.173:5146
+广东民生,http://907698324.xyz:7088/udp/239.77.0.225:5146
+广东体育,http://907698324.xyz:7088/udp/239.77.0.168:5146
+广东经济科教,http://907698324.xyz:7088/udp/239.77.0.85:5146
+广东经济科教,http://907698324.xyz:7088/udp/239.77.0.167:5146
+大湾区卫视,http://907698324.xyz:7088/udp/239.77.0.215:5146
+广东影视,http://907698324.xyz:7088/udp/239.77.0.217:5146
+广东少儿,http://907698324.xyz:7088/udp/239.77.0.250:5146
+嘉佳卡通,http://907698324.xyz:7088/udp/239.77.0.179:5146
+岭南戏曲,http://907698324.xyz:7088/udp/239.77.0.122:5146
+广东现代教育,http://907698324.xyz:7088/udp/239.77.0.213:5146
+深圳都市,http://907698324.xyz:7088/udp/239.77.1.124:5146
+广州综合,http://907698324.xyz:7088/udp/239.253.43.71:5146
+广州新闻,http://907698324.xyz:7088/udp/239.253.43.72:5146
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+
+香港,#genre#
+翡翠台,http://cdn6.163189.xyz/163189/fct
+明珠台,http://cdn6.163189.xyz/163189/mzt
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+NOW新闻,https://cdn.163189.xyz/163189/now
+凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
+凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
+HOY77,https://cdn6.163189.xyz/163189/hoy
+HOY78,https://cdn.163189.xyz/163189/hoy78
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
+ViuTV,https://cdn.163189.xyz/163189/viu
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+天映频道,https://o11.163189.xyz/stream/live/typd/
+Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+
+TVB亚视,#genre#
+[BD]tvb plus,https://t.freetv.fun/live/tvb-plus.m3u8
+[BD]tvb plus,https://t.freetv.fun/live/tvb-plus-1.m3u8
+[BD]tvb plus,https://t.freetv.fun/live/tvb-plus-2.m3u8
+[BD]tvb plus,https://t.freetv.fun/live/tvb-plus-3.m3u8
+[BD]tvb plus,https://t.freetv.fun/live/tvb-plus-5.m3u8
+[BD]tvb plus超清,https://t.freetv.fun/live/tvb-pluschao-qing.m3u8
+[BD]tvb娱乐新闻,https://t.freetv.fun/live/tvbyu-le-xin-wen.flv
+[BD]tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
+[BD]tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-2.m3u8
+[BD]tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
+[BD]tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
+[BD]tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
+[BD]tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-6.m3u8
+[BD]tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-7.m3u8
+[HD]tvb亞洲劇臺,https://t.freetv.fun/live/tvbya-zhou-ju-tai.m3u8
+[BD]tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
+[BD]tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
+[HD]tvb星河,https://t.freetv.fun/live/tvbxing-he-2.m3u8
+[HD]tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
+[BD]TVB 翡翠台 *sg,https://t.freetv.fun/live/tvb-fei-cui-tai-sg.m3u8
+[BD]tvb翡翠,https://t.freetv.fun/live/tvbfei-cui.flv
+[BD]tvb翡翠,https://t.freetv.fun/live/tvbfei-cui-1.php
+
+北京,#genre#
+北京体育休闲,http://r.xace.fun:4999/udp/239.3.1.243:8000
+北京国际,http://r.xace.fun:4999/udp/239.3.1.235:8000
+北京影视,http://r.xace.fun:4999/udp/239.3.1.158:8000
+北京文艺,http://r.xace.fun:4999/udp/239.3.1.242:8000
+北京新闻,http://r.xace.fun:4999/udp/239.3.1.159:8000
+北京生活,http://r.xace.fun:4999/udp/239.3.1.117:8000
+北京纪实科教,http://r.xace.fun:4999/udp/239.3.1.115:8000
+北京财经,http://r.xace.fun:4999/udp/239.3.1.116:8000
+卡酷少儿,http://r.xace.fun:4999/udp/239.3.1.189:8000
+北京IPTV淘BABY,http://r.xace.fun:4999/udp/239.3.1.238:8001
+北京IPTV萌宠TV,http://r.xace.fun:4999/udp/239.3.1.102:8001
+北京IPTV淘剧场,http://r.xace.fun:4999/udp/239.3.1.95:8001
+北京IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
+北京IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
+北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
+
+综合,#genre#
+猫和老鼠1,http://cfss.cc/cdn/huya/11352879.flv
+猫和老鼠2,https://live.iill.top/huya.php?id=11352879
+
+CHC动作电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.174:5140
+CHC家庭影院,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
+CHC影迷电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
+五星体育,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
+龙华电影,https://cdn8.163189.xyz/163189/lhdy
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
+龙华偶像,https://cdn8.163189.xyz/163189/lhox
+龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+Cinemax精选,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+Cinemax经典,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
+尼克少儿,http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
+尼克少儿 俄罗斯,http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
+CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
+COMEDY CENTRAL,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
+Discovery,http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
+Animal lPlanet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
+Animal lPlanet 捷克,http://195.146.131.222:3030/play/Animal%20Planet%20HD.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+Nat Geo WILD 捷克,http://195.146.131.222:3030/play/Nat%20Geo%20Wild%20HD.m3u8
+Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
+Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+花花公子 欧洲16+,http://193.24.244.60:1001/udp/239.254.4.227:6060
+花花公子 拉美18+,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+流言终结者,https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
+
+新闻,#genre#
+英国BBC新闻 美国版,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+美国CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+美国CNN 英国版,https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
+美国Bloomberg,https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
+俄罗斯金砖TV,https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+法国France 24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+韩国阿里郎,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国阿里郎电台,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+卡塔尔Al Jazeera 英文,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+卡特尔Al Jazeera 阿语,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+音乐,#genre#
+俄罗斯BRIDGE DELUXE,http://194.143.150.123:8080/udp/239.195.5.213:1234
+俄罗斯ЖAPA,http://194.143.150.123:8080/udp/239.195.5.11:1234
+MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cwe
+美国MTV LIVE,http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
+韩国K-POP by CJ ENM,https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
+荷兰Sol Música,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+英国Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+电影背景音乐,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+Vevo Pop,https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+Vevo Retro Rock,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+Vevo Country,https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+Vevo 2K,https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+Vevo 70s,https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
 
-
-
+咪视界,#genre#
+至臻视界,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000015686
+咪视界4K,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000005180
+晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011523
+晴彩少年,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011525
+晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011521
+晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011528
+晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000015470
+晴彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011529
+咪视界 1,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000005308
+咪视界 2,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000005969
+咪视界 3,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000007218
+咪视界 4,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000008001
+咪视界 5,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000008176
+咪视界 6,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000008379
+咪视界 7,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000010129
+咪视界 8,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000010948
+咪视界 9,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000028638
+咪视界 10,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000031494
+咪视界 11,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000000097
+咪视界 12,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000002019
+咪视界 13,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000002809
+咪视界 14,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000003915
+咪视界 15,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000004193
+咪视界 16,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000005837
+咪视界 17,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000006077
+咪视界 18,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000006658
+咪视界 19,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000009788
+咪视界 20,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000010833
+咪视界 21,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000011297
+咪视界 22,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000011518
+咪视界 23,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000012558
+咪视界 24,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000012616
+咪视界 26,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000015560
+咪视界 28,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000019839
+咪视界 29,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000021904
+咪视界 30,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000023434
+咪视界 31,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000025380
+咪视界 33,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000031669
+咪视界 34,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011518
+咪视界 35,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011519
+咪视界 36,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011520
+咪视界 37,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
+咪视界 38,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
